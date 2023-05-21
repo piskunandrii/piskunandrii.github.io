@@ -11,3 +11,5 @@
         <span>Copyright 2023, Andrii Piskun</span>
     </body>
 </html>
+
+Game Developer at AmyStake Inc.
